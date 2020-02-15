@@ -14,4 +14,4 @@ In the navbar, search "https://fast-bayou-41214.herokuapp.com/", this is the app
 
 ## Screenshot of "Devour It" burger functionality:
 
-![App Function](https://github.com/Jupton2020/SequelizedBurger/blob/master/public/assets/img/Eat%20Da%20Bruger!.webm)
+![App Function](https://github.com/Jupton2020/SequelizedBurger/blob/master/public/assets/img/Eat-Da-Bruger.gif)
